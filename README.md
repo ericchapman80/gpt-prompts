@@ -9,6 +9,7 @@ Welcome to the **GPT Prompt Templates**! This repository serves as a collection 
 - [GPT Prompt Templates](#gpt-prompt-templates)
   - [📖 Table of Contents](#-table-of-contents)
   - [🛠️ Getting Started](#️-getting-started)
+  - [✍️ Contribution Guidelines](#️-contribution-guidelines)
   - [📂 Prompt Categories](#-prompt-categories)
     - [Code Assistance](#code-assistance)
       - [Example Prompt:](#example-prompt)
@@ -20,7 +21,6 @@ Welcome to the **GPT Prompt Templates**! This repository serves as a collection 
       - [Example Prompt:](#example-prompt-3)
     - [Custom Use Cases](#custom-use-cases)
       - [Example Prompt:](#example-prompt-4)
-  - [✍️ Contribution Guidelines](#️-contribution-guidelines)
   - [📜 License](#-license)
 
 ---
@@ -35,6 +35,25 @@ To use these prompts:
    ```
 2. Browse the prompt templates by category.
 3. Copy and customize the prompts to suit your needs.
+
+---
+
+## ✍️ Contribution Guidelines
+
+We welcome contributions! To add your own prompt templates:
+
+1. Fork this repository.
+2. Create a new Markdown file in the appropriate category.
+3. Use the following template:
+   ```markdown
+   **Title:** [Prompt Title]
+
+   **Description:** [Brief description of the prompt's purpose.]
+
+   **Prompt:**
+   "[Insert prompt here.]"
+   ```
+4. Submit a pull request with your additions.
 
 ---
 
@@ -123,25 +142,6 @@ Include an example request and a detailed description of each parameter and the 
 **Prompt:**
 "Create a personalized learning plan for someone who wants to learn [topic]. They have [time available per week] and want to achieve [specific goal] within [timeframe]."
 ```
-
----
-
-## ✍️ Contribution Guidelines
-
-We welcome contributions! To add your own prompt templates:
-
-1. Fork this repository.
-2. Create a new Markdown file in the appropriate category.
-3. Use the following template:
-   ```markdown
-   **Title:** [Prompt Title]
-
-   **Description:** [Brief description of the prompt's purpose.]
-
-   **Prompt:**
-   "[Insert prompt here.]"
-   ```
-4. Submit a pull request with your additions.
 
 ---
 
