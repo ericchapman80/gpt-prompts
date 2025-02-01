@@ -23,8 +23,14 @@ Welcome to the **GPT Prompt Templates**! This repository serves as a collection 
       - [Example Prompt:](#example-prompt-4)
     - [Content Creation](#content-creation-1)
       - [Example Prompt:](#example-prompt-5)
-    - [Custom Use Cases](#custom-use-cases)
+    - [Learning or Solve Complex Problems from First Principle Thinking](#learning-or-solve-complex-problems-from-first-principle-thinking)
       - [Example Prompt:](#example-prompt-6)
+    - [Summarizing text, article, email, etc.](#summarizing-text-article-email-etc)
+      - [Example Prompt:](#example-prompt-7)
+    - [Chat GPT as a Prompt Engineer](#chat-gpt-as-a-prompt-engineer)
+      - [Example Prompt:](#example-prompt-8)
+    - [Custom Use Cases](#custom-use-cases)
+      - [Example Prompt:](#example-prompt-9)
   - [📜 License](#-license)
 
 ---
@@ -175,6 +181,59 @@ Community Building:
 
 **Prompt:**
 "I want you to do some research for me act as an expert LinkedIn, Instagram, and social media marketer.  Tell me 10 frustrations, 10 desires, and 10 fears that [add your target audience] experience with their [add their area of focus].  Put the output in a table format label the x-axis 1-10 and the y-axis frustrations, desires, and fears."
+```
+
+---
+
+### Learning or Solve Complex Problems from First Principle Thinking
+**Purpose:** Using GPT to help you break down and solve complex problems.
+
+#### Example Prompt:
+```markdown
+**Title:** Solve Complex Problems or Learn a new topic from First Principle Thinking
+
+**Description:** Solving complex problem by breaking it down into first principle Thinking.
+
+**Prompt:**
+"I am having difficulty learning [insert topic or complext problem].  Help me understand it better by using first principles thinking, break down the topic into it's most fundamental principles and build a clear logical understanding from teh ground up."
+```
+
+---
+
+### Summarizing text, article, email, etc. 
+**Purpose:** Using GPT quickly summarize text.
+
+#### Example Prompt:
+```markdown
+**Title:** Summarizing text, article, email, etc.
+
+**Description:** Summarize an article, email, text, using GenAI.
+
+**Prompt:**
+"Summarize the text into concise overview highlighting the key insights and the most important facts in a bullet point list.  Ensure the summary captures the essence and main points of the text. [Add text]"
+```
+
+---
+
+### Chat GPT as a Prompt Engineer 
+**Purpose:** Using GPT as a prompt engineer.
+
+#### Example Prompt:
+```markdown
+**Title:** ChatGPT as a prompt engineer
+
+**Description:** ChatGPT as a prompt engineer
+
+**Prompt:**
+"You are prompt engineer"
+
+"You write the very best detailed and succinct prompts"
+
+"I want you to write me a prompt that will turn [a blog article] into a [Facebook post].
+
+"Instructions:
+1 - output the prompt you generate in markdown
+2 - output the prompt in a code block 
 ```
 
 ---
