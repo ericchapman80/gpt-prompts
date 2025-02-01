@@ -19,8 +19,12 @@ Welcome to the **GPT Prompt Templates**! This repository serves as a collection 
       - [Example Prompt:](#example-prompt-2)
     - [Technical Writing](#technical-writing)
       - [Example Prompt:](#example-prompt-3)
-    - [Custom Use Cases](#custom-use-cases)
+    - [Strategic Business Plan](#strategic-business-plan)
       - [Example Prompt:](#example-prompt-4)
+    - [Content Creation](#content-creation-1)
+      - [Example Prompt:](#example-prompt-5)
+    - [Custom Use Cases](#custom-use-cases)
+      - [Example Prompt:](#example-prompt-6)
   - [📜 License](#-license)
 
 ---
@@ -126,6 +130,51 @@ Refactor it with inline comments explaining your changes."
 - Response: [Example response]
 
 Include an example request and a detailed description of each parameter and the response."
+```
+
+---
+
+### Strategic Business Plan
+**Purpose:** Tailored prompts for building a strategic business plan.
+
+#### Example Prompt:
+```markdown
+**Title:** Strategic Business Plan
+
+**Description:** Develop a strategic business plan based on individual goals and timelines.
+
+**Prompt:**
+"Create a strategic business plan aimed at reaching a six-figured income for 2025 for your [Business Type: Entrepreneur Innovator/Content Creator & Digital Marketer/Online Educator & Coach/E-commerce Entrepreneur]. Please fill in the relevant information and examples for each section:" 
+
+Value Proposition: 
+"Our business uniquely addresses [Key Problem] by offering [Your Solution]. Unlike our competitors, we [Differentiating Factor]. This is essential because [Reason]."
+
+High-Impact Marketing Channels:
+"Identify 2-3 primary marketing channels most effective for reaching our target audience, focusing on [Channel 1], [Channel 2], and [Channel 3], because [Reason for the selection].  Our strategy will prioritize [Most Effective Channel] due to its [Advantage]."
+
+Scalable Offerings:
+"Our scalable product/service will be [Product/Service Name], which can grow by [Method of Efficiency].  We'll ensure it meets market demands by [Method for feedback Collection]."
+
+Systems and Automation:
+"To streamline operations, we will implement [System/Automation Tool 1], for [Purpose], and [System/Automation Tool 2], for [Purpose].  This will save time by [How it saves time] and increase efficiency by [How it increase efficiency]."
+
+Community Building:
+"We plan to build and nurture our community through [Platform/Method], engaging our audience by [Type of Engagement].  We'll offer value through [Type of Value] and foster advocacy by [Method]."
+```
+
+---
+
+### Content Creation
+**Purpose:** Content Creation Prompt for one months of content.
+
+#### Example Prompt:
+```markdown
+**Title:** Generation of one months of Content Creation 
+
+**Description:** Create months worth of content creation for your brand. 
+
+**Prompt:**
+"I want you to do some research for me act as an expert LinkedIn, Instagram, and social media marketer.  Tell me 10 frustrations, 10 desires, and 10 fears that [add your target audience] experience with their [add their area of focus].  Put the output in a table format label the x-axis 1-10 and the y-axis frustrations, desires, and fears."
 ```
 
 ---
